@@ -1,0 +1,15 @@
+C:\git_dev\SalesApp\bin\Debug\SalesApp.exe.config
+C:\git_dev\SalesApp\bin\Debug\SalesApp.exe
+C:\git_dev\SalesApp\bin\Debug\SalesApp.pdb
+C:\git_dev\SalesApp\obj\Debug\SalesApp.csprojResolveAssemblyReference.cache
+C:\git_dev\SalesApp\obj\Debug\MainWindow.baml
+C:\git_dev\SalesApp\obj\Debug\ResultWindow.baml
+C:\git_dev\SalesApp\obj\Debug\MainWindow.g.cs
+C:\git_dev\SalesApp\obj\Debug\ResultWindow.g.cs
+C:\git_dev\SalesApp\obj\Debug\App.g.cs
+C:\git_dev\SalesApp\obj\Debug\SalesApp_MarkupCompile.cache
+C:\git_dev\SalesApp\obj\Debug\SalesApp.g.resources
+C:\git_dev\SalesApp\obj\Debug\SalesApp.Properties.Resources.resources
+C:\git_dev\SalesApp\obj\Debug\SalesApp.csproj.GenerateResource.Cache
+C:\git_dev\SalesApp\obj\Debug\SalesApp.exe
+C:\git_dev\SalesApp\obj\Debug\SalesApp.pdb
