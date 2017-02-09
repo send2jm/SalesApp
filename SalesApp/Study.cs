@@ -27,7 +27,6 @@ namespace SalesApp
         public Study(string OID)
         {
             mOID = OID;
-
         }
 
         public Study(string OID, string StudyName, int ProtocolName, bool Study)
